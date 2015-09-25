@@ -1,9 +1,5 @@
-#D# ITBVizDat
+#ITBVizDat#
 ITB Data Visualization Assignment
-
-###Description###
-# visdat15-2
-Data Visualization Assignment
 
 ###Description###
 buat pertanyaan terkait dengan itb dan carilah data tsb
