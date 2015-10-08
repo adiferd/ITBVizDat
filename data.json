@@ -1,0 +1,245 @@
+{
+    "name": "Penerima",
+    "children": [
+        {
+            "name": "SBM",
+            "children": [
+                {
+                    "name": "Manajemen",
+                    "value": 18
+                },
+                {
+                    "name": "Kewirausahaan",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "name": "FSRD",
+            "children": [
+                {
+                    "name": "Seni Rupa",
+                    "value": 8
+                },
+                {
+                    "name": "Kriya",
+                    "value": 10
+                },
+                {
+                    "name": "Desain Produk",
+                    "value": 19
+                },
+                {
+                    "name": "Desain Komunikasi Visual",
+                    "value": 9
+                },
+                {
+                    "name": "Desain Interior",
+                    "value": 11
+                }
+            ]
+        },
+        {
+            "name": "FTSL",
+            "children": [
+                {
+                    "name": "Teknik Sipil",
+                    "value": 58
+                },
+                {
+                    "name": "Teknik Lingkungan",
+                    "value": 30
+                },
+                {
+                    "name": "Teknik Kelautan",
+                    "value": 14
+                }
+            ]
+        },
+        {
+            "name": "SAPPK",
+            "children": [
+                {
+                    "name": "Perencanaan Wilayah dan Kota",
+                    "value": 35
+                },
+                {
+                    "name": "Arsitektur",
+                    "value": 45
+                }
+            ]
+        },
+        {
+            "name": "STEI",
+            "children": [
+                {
+                    "name": "Teknik Tenaga Listrik",
+                    "value": 28
+                },
+                {
+                    "name": "Teknik Telekomunikasi",
+                    "value": 18
+                },
+                {
+                    "name": "Teknik Informatika",
+                    "value": 21
+                },
+                {
+                    "name": "Teknik Elektro",
+                    "value": 50
+                },
+                {
+                    "name": "Tahap Tahun Pertama STEI",
+                    "value": 1
+                },
+                {
+                    "name": "Sistem dan Teknologi Informasi",
+                    "value": 13
+                }
+            ]
+        },
+        {
+            "name": "FTMD",
+            "children": [
+                {
+                    "name": "Teknik Penerbangan",
+                    "value": 14
+                },
+                {
+                    "name": "Teknik Mesin",
+                    "value": 41
+                },
+                {
+                    "name": "Teknik Material",
+                    "value": 7
+                }
+            ]
+        },
+        {
+            "name": "FTI",
+            "children": [
+                {
+                    "name": "Teknik Kimia",
+                    "value": 37
+                },
+                {
+                    "name": "Teknik Industri",
+                    "value": 36
+                },
+                {
+                    "name": "Teknik Fisika",
+                    "value": 27
+                },
+                {
+                    "name": "Manajemen Rekayasa Industri",
+                    "value": 5
+                }
+            ]
+        },
+        {
+            "name": "FTTM",
+            "children": [
+                {
+                    "name": "Teknik Pertambangan",
+                    "value": 35
+                },
+                {
+                    "name": "Teknik Perminyakan",
+                    "value": 47
+                },
+                {
+                    "name": "Teknik Metalurgi",
+                    "value": 13
+                },
+                {
+                    "name": "Teknik Geofisika",
+                    "value": 28
+                }
+            ]
+        },
+        {
+            "name": "FITB",
+            "children": [
+                {
+                    "name": "Teknik Geologi",
+                    "value": 48
+                },
+                {
+                    "name": "Teknik Geodesi dan Geomatika",
+                    "value": 26
+                },
+                {
+                    "name": "Oseanografi",
+                    "value": 13
+                },
+                {
+                    "name": "Meteorologi",
+                    "value": 17
+                }
+            ]
+        },
+        {
+            "name": "SF",
+            "children": [
+                {
+                    "name": "Sains dan Teknologi Farmasi",
+                    "value": 54
+                },
+                {
+                    "name": "Farmasi Klinik dan Komunitas",
+                    "value": 16
+                }
+            ]
+        },
+        {
+            "name": "SITH",
+            "children": [
+                {
+                    "name": "Rekayasa Pertanian",
+                    "value": 1
+                },
+                {
+                    "name": "Rekayasa Kehutanan",
+                    "value": 4
+                },
+                {
+                    "name": "Rekayasa Hayati",
+                    "value": 22
+                },
+                {
+                    "name": "Mikrobiologi",
+                    "value": 26
+                },
+                {
+                    "name": "Biologi",
+                    "value": 23
+                }
+            ]
+        },
+        {
+            "name": "FMIPA",
+            "children": [
+                {
+                    "name": "Tahap Tahun Pertama FMIPA",
+                    "value": 1
+                },
+                {
+                    "name": "Matematika",
+                    "value": 49
+                },
+                {
+                    "name": "Kimia",
+                    "value": 26
+                },
+                {
+                    "name": "Fisika",
+                    "value": 23
+                },
+                {
+                    "name": "Astronomi",
+                    "value": 7
+                }
+            ]
+        }
+    ]
+}
